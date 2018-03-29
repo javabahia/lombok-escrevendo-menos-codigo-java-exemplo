@@ -1,6 +1,5 @@
 package dominios;
 
-import lombok.experimental.var;
 import org.junit.Test;
 
 import java.time.LocalDate;

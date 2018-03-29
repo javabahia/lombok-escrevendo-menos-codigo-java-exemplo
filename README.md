@@ -1,6 +1,23 @@
 # Projeto Lombok: Escrevendo menos código em Java
 
-Links relevantes para esse repositorio:
+## Requisitos
+1. JDK >= 1.8
+2. Maven >= 3.0.4
+
+## Uso
+1. Instale as dependências: `mvn clean install`
+3. Abra aplicação pela sua IDE ou edidor de texto
+
+## Contribuindo
+
+1. Faça o Fork!
+2. Crie sua branch de trabalho: `git checkout -b my-new-feature`
+3. Teste suas mudanças: `mvn clean verify`
+4. Commit suas mudanças se passar nos testes: `git commit -am 'Add some feature'`
+5. Adicione a branch no seu repositório: `git push origin my-new-feature`
+6. Peça um pull request :D
+
+## Links relevantes para esse repositorio:
 
 [Project Lombok - Pagina do projeto](https://projectlombok.org/)
 
