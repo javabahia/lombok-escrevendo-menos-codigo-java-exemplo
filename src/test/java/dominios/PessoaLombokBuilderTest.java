@@ -20,7 +20,7 @@ public class PessoaLombokBuilderTest {
                 .dtNascimento(LocalDate.now().toString())
                 .build();
 
-        var nome = "Mateus";
+        String nome = "Mateus";
 
         assertNotNull(pessoa);
         assertEquals(pessoa.getNome(), "Mateus");
